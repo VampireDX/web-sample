@@ -20,6 +20,6 @@ public class Test {
 
     @RequestMapping
     public String hello() {
-        return "Hello word!";
+        return "Hello word2!";
     }
 }
